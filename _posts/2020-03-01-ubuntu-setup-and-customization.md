@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ubuntu setup and customization"
+date:   2020-03-01 12:00:00 +0200
+categories: ubuntu
+excerpt: "After installing ubuntu on a new machine my next step is to customize the system for my needs. But as this is a very infrequent task, I end up researching and looking up the same things again and again. So this time I decided to write down all the steps"
+---
+
 # Ubuntu setup and customization
 
 I recently re-installed ubuntu on my laptop, to update to Eoan Ermine and also to get a "fresh" start. This is a task that I do quite infrequently. So normally when it becomes neccesary, I don't remember any more what kind of customizations I applied the last time. So directly after the install I do the few customizations I remember from the previous iteration. However the vast majority of configuration happens during the course of the following months: I notice something unpleasant and need to interrupt my current task, to search for a solution for the problem. Most of the time I notice that I already had the same problem the year before. And also the year before that year...
@@ -22,7 +30,7 @@ set bell-style visible
 ### Dock - remove all applications from favorites
 I start applications by searching for them. So I don't need something I can click on with the mouse in my dock. Having only active applications in the dock, also helps me to see at a glance which applications are running.
 
-![Ubuntu dock "remove from favorites"](ubuntu-dock-remove-from-favorites.jpg)
+![Ubuntu dock "remove from favorites"](/assets/img/ubuntu-dock-remove-from-favorites.jpg)
 
 - Right click the "favorite" application in the dock
 - Click "Remove from Favorites"
